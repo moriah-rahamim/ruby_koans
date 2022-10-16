@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "rebornix.Ruby"
+    "rebornix.ruby",
+    "castwide.solargraph",
+    "wingrunr21.vscode-ruby"
   ]
 }
